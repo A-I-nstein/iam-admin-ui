@@ -6,8 +6,8 @@ def get_users():
     users = {}
 
     count = 1
-    mouse = "C://Users//Anuranjan//Desktop//Virtusa//bot detection//admin ui//Mouse//"
-    keyboard = "C://Users//Anuranjan//Desktop//Virtusa//bot detection//admin ui//Keyboard//"
+    mouse = "Mouse//"
+    keyboard = "Keyboard//"
 
     mouse_files = os.listdir(mouse)
     key_files = os.listdir(keyboard)
